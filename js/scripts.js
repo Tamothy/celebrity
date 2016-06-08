@@ -6,12 +6,11 @@ $(document).ready(function() {
       if (gender === "male" && age < 21) {
       $("#Miley").show();
     } else if (gender === "male" && age >= 21 && age <= 30) {
-      ("#Scarlett").show();
+      $("#Scarlett").show();
     } else if (gender === "male" && age > 30) {
       $("#Hillary").show();
     } else if(gender === "female") {
       $("#Obama").show();
-
     } else {
       alert("Please enter information correctly. Refresh and try again!");
     }
