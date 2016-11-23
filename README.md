@@ -6,7 +6,7 @@
 
 ## Description
 
-This is an exercise implementing JavaScript, using JQuery implement logical operators and conditionals
+This is an exercise implementing JavaScript, using JQuery to implement logical operators and conditionals
 
 ## Setup/Installation Requirements
 
